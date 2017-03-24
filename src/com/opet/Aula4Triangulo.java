@@ -16,7 +16,7 @@ public class Aula4Triangulo
             for(int j=1;j<=quantidadeX;j++) {
                 xis = xis + "X";
             }
-            espacosEmBranco = (19-quantidadeX)/2;
+            espacosEmBranco = (17-quantidadeX)/2;
             for(int j=1;j<=espacosEmBranco;j++) {
                 xis = " "+xis;
             }
